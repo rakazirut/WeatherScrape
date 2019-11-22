@@ -1,0 +1,90 @@
+
+Detroit Weather for Today, 22 NOV:
+It will be partly cloudy with high and low temperature(celsius) 3°-4°
+Chance of rain: 0%
+Wind info: WNW 21 km/h 
+Humidity info: 55%
+
+Detroit Weather for Sat, 23 NOV:
+It will be partly cloudy with high and low temperature(celsius) 6°-1°
+Chance of rain: 10%
+Wind info: SW 10 km/h 
+Humidity info: 69%
+
+Detroit Weather for Sun, 24 NOV:
+It will be partly cloudy with high and low temperature(celsius) 8°0°
+Chance of rain: 10%
+Wind info: WSW 15 km/h 
+Humidity info: 72%
+
+Detroit Weather for Mon, 25 NOV:
+It will be mostly cloudy with high and low temperature(celsius) 8°1°
+Chance of rain: 10%
+Wind info: SSW 18 km/h 
+Humidity info: 77%
+
+Detroit Weather for Tue, 26 NOV:
+It will be pm showers with high and low temperature(celsius) 8°5°
+Chance of rain: 40%
+Wind info: SSE 13 km/h 
+Humidity info: 79%
+
+Detroit Weather for Wed, 27 NOV:
+It will be mostly cloudy / wind with high and low temperature(celsius) 7°-1°
+Chance of rain: 20%
+Wind info: W 32 km/h 
+Humidity info: 72%
+
+Detroit Weather for Thu, 28 NOV:
+It will be partly cloudy with high and low temperature(celsius) 5°-1°
+Chance of rain: 10%
+Wind info: NNW 10 km/h 
+Humidity info: 68%
+
+Detroit Weather for Fri, 29 NOV:
+It will be mostly cloudy with high and low temperature(celsius) 5°1°
+Chance of rain: 10%
+Wind info: ESE 11 km/h 
+Humidity info: 72%
+
+Detroit Weather for Sat, 30 NOV:
+It will be showers with high and low temperature(celsius) 5°0°
+Chance of rain: 40%
+Wind info: S 12 km/h 
+Humidity info: 79%
+
+Detroit Weather for Sun, 1 DEC:
+It will be am snow showers with high and low temperature(celsius) 4°-2°
+Chance of rain: 40%
+Wind info: WNW 17 km/h 
+Humidity info: 70%
+
+Detroit Weather for Mon, 2 DEC:
+It will be rain / snow with high and low temperature(celsius) 2°-3°
+Chance of rain: 40%
+Wind info: WNW 16 km/h 
+Humidity info: 69%
+
+Detroit Weather for Tue, 3 DEC:
+It will be mostly cloudy with high and low temperature(celsius) 1°-6°
+Chance of rain: 20%
+Wind info: W 19 km/h 
+Humidity info: 69%
+
+Detroit Weather for Wed, 4 DEC:
+It will be mostly cloudy with high and low temperature(celsius) -2°-6°
+Chance of rain: 10%
+Wind info: WSW 19 km/h 
+Humidity info: 67%
+
+Detroit Weather for Thu, 5 DEC:
+It will be mostly cloudy with high and low temperature(celsius) -1°-6°
+Chance of rain: 20%
+Wind info: W 19 km/h 
+Humidity info: 68%
+
+Detroit Weather for Fri, 6 DEC:
+It will be am snow showers with high and low temperature(celsius) -2°-7°
+Chance of rain: 30%
+Wind info: W 18 km/h 
+Humidity info: 69%
